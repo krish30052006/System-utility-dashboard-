@@ -1,0 +1,4 @@
+Platform: win32 
+Total Memory: 16831733760 
+Free RAM: 6380711936 
+CPU Details: x64
